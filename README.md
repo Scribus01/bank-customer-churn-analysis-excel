@@ -98,11 +98,8 @@ The following cleaning and transformation steps were performed:
 
 ## Dashboard Preview
 
-Add a screenshot of the dashboard here.
+![Dashboard Screenshot](bank churn 1.png)
 
-Example:
-
-![Dashboard Screenshot](dashboard.png)
 
 ---
 
