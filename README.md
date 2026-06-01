@@ -92,13 +92,7 @@ The following cleaning and transformation steps were performed:
 2. Which geographic region experiences the highest churn?
 3. Which age groups are most likely to leave?
 4. How does customer activity affect retention?
-5. What relationship exists between balance, credit score, and churn?
-
----
-
-## Dashboard Preview
-
-![Dashboard Screenshot](bank churn 1.png)
+5. What relationship exists between balance, cr
 
 
 ---
